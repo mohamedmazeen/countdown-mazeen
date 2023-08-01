@@ -1,0 +1,18 @@
+/**
+*
+* base.css 
+* @author - Mazeen
+* @date - 1/8/2023 
+**/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Black Ops One';
+    font-size: 16px;
+    background-color: #fff;
+    color: #2d2d2d
+}
+h1 {
+    font-size: 24px;
+    text-align: center;
+}

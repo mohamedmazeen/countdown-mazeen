@@ -1,0 +1,2 @@
+# New Year Countdown
+This is a New Year Countdown built using HTML, CSS, and Javascript. It automatically calculates the number of days, hours, minutes, and seconds left for 2024 New Year from the current date. This countdown also updates itself every second so that the user does not have to refresh the page.
